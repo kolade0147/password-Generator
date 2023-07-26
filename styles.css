@@ -1,0 +1,60 @@
+body{
+	height: 350px;
+width: 350px;
+left: 402px;
+top: 64px;
+border-radius: 0px;
+background-color: #1F2937;
+
+
+}
+
+.gen{
+	color: white;
+}
+
+span{
+	color: #00FF00;
+}
+
+.never{
+	color: #D5D4D8;
+line-height: 28px;
+size: 20px;
+}
+
+#gen{
+font-family: italic;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: white;
+background: #00FF00;
+height: 40px;
+width: 160px;
+border-radius: 5px;
+}
+
+
+
+.key{
+height: 50px;
+width: 250px;
+border-radius: 5px;
+background: red;
+padding: auto;
+line-height: 50px;
+margin-top: 20px;
+margin-left: 50px;
+}
+
+
+.main{
+display: flex;
+margin: 0 auto;
+text-align: center;
+}
+
+.content{
+	margin: 50px;
+}
